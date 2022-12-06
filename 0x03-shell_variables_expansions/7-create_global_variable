@@ -1,0 +1,2 @@
+#!/bin/basn
+echo $((2#$BEST SCHOOL))
