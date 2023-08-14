@@ -1,4 +1,7 @@
 # 0x19. Postmortem
+https://docs.google.com/document/d/1zY8opqJ8UV23Zaf9AFtB1eepfAxu6Gf-ML0wIivh3DI/edit?usp=sharing
+https://docs.google.com/document/d/1zE-Uw3-Cq-JXi4IOde04ZnbWile56BLz8ut8k1mG88U/edit?usp=sharing
+
 0. My first postmortem
 mandatory
 
